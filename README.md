@@ -4,7 +4,8 @@ codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ![class](CLASS.PNG "Class - Objects, Attributes and Functionalities")   ![class types](CLASSTYPES.PNG "Different types of Classes") 
 ![derived class](CLASSTYPES1.PNG "Derived Classes")   ![super class](SUPERCLASS.PNG "Super and Sub Classes")
 ---
-
+### Class
+ A class contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods
 
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
