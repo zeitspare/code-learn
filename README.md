@@ -28,6 +28,9 @@ enables a derived class to inherit characteristics from a single-parent class.|e
 ### Polymorphism
 Polymorphism simply means having many forms.
 
+### Encapsulation
+wrapping data and the methods that work on data within one unit. This puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data. 
+
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
