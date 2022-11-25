@@ -31,6 +31,10 @@ Polymorphism simply means having many forms.
 ### Encapsulation
 wrapping data and the methods that work on data within one unit. This puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data. 
 
+### Data Abstraction
+hides the unnecessary code details from the user. To hide sensitive parts of our code implementation.
+Data Abstraction in Python can be achieved through creating abstract classes
+
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
