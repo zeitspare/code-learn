@@ -1,5 +1,5 @@
 # code-learn
-python codes to make daily tasks easy and basic definition of certain keywords
+codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ---
 ![class](CLASS.PNG "Class - Objects, Attributes and Functionalities")   ![class types](CLASSTYPES.PNG "Different types of Classes") 
 ![derived class](CLASSTYPES1.PNG "Derived Classes")   ![super class](SUPERCLASS.PNG "Super and Sub Classes")
