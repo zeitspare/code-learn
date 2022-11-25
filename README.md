@@ -36,3 +36,9 @@ The word 'self' is used to represent the instance of a class. By using the "self
 
 ### _ _ init _ _ method
 "_ _ init _ _" is a reseved method in python classes. It is called as a constructor in object oriented terminology. This method is called when an object is created from a class and it allows the class to initialize the attributes of the class.
+
+### _ _ superprivate
+variable name with double underscore prefix. will keep the Variable superprivate can be accessed only in the base class and not even in Derived class
+
+### _ semiprivate
+variable name with single underscore prefix. will keep the Variable semiprivate can only be accessed or changed  if this is a absolutely must.
