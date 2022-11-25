@@ -4,7 +4,7 @@ codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ![class](CLASS.PNG "Class - Objects, Attributes and Functionalities")   ![class types](CLASSTYPES.PNG "Different types of Classes") 
 ![derived class](CLASSTYPES1.PNG "Derived Classes")   ![super class](SUPERCLASS.PNG "Super and Sub Classes")
 ---
-OOPS CONCEPT
+
 
 ### Class
  A class contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods
