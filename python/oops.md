@@ -1,8 +1,8 @@
 # code-learn
 codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ---
-![class](code-learn/images/CLASS.PNG  "Class - Objects, Attributes and Functionalities")   ![class types](CLASSTYPES.PNG "Different types of Classes") 
-![derived class](CLASSTYPES1.PNG "Derived Classes")   ![super class](SUPERCLASS.PNG "Super and Sub Classes")
+![class](images/CLASS.PNG  "Class - Objects, Attributes and Functionalities")   ![class types](images/CLASSTYPES.PNG "Different types of Classes") 
+![derived class](images/CLASSTYPES1.PNG "Derived Classes")   ![super class](images/SUPERCLASS.PNG "Super and Sub Classes")
 ---
 
 
