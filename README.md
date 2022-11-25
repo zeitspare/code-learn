@@ -21,9 +21,9 @@ A function is a block of code to carry out a specific task, will contain its own
 ### Inheritance 
 Inheritance is the capability of one class to derive or inherit the properties from another class. The class that derives properties is called the derived class or child class and the class from which the properties are being derived is called the base class or parent class.
 
-|USUAGE|TECHNOLOGY|INSTANCES|AWS - Instances|AWS RAM(GB)|AWS vCPU|
-|-----------|:-----------:|-----------:|-----------:|-----------:|-----------:|
-
+|Single-Inheritance|Multilevel-Inheritance|Hierachical-Intheritance|Multile-Inheritance|
+|-----------|:-----------:|-----------:|-----------:|
+enables a derived class to inherit characteristics from a single-parent class||||
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
