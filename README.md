@@ -7,6 +7,9 @@ codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ### Class
  A class contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods
 
+### Object
+The object is an entity that has a functionality and property associated with it.
+
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
