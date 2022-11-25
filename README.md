@@ -2,7 +2,7 @@
 python codes to make daily tasks easy and basic definition of certain keywords
 ---
 ![class](CLASS.PNG "Class - Objects, Attributes and Functionalities") ![class types](CLASSTYPES.PNG "Different types of Classes") 
-![derived class](CLASSTYPES1.PNG "Derived Classes") ![derived class](CLASSTYPES1.PNG "Derived Classes") 
+![derived class](CLASSTYPES1.PNG "Derived Classes") 
 ---
 
 
