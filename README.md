@@ -13,6 +13,9 @@ The object is an entity that has a functionality and property associated with it
 ### Methods
 A method in python is somewhat similar to a function, except it is associated with object/classes
 
+### Functions
+A function is a block of code to carry out a specific task, will contain its own scope and is called by name. 
+
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
