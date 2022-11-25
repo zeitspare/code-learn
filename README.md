@@ -1,7 +1,7 @@
 # code-learn
 python codes to make daily tasks easy and basic definition of certain keywords
 
-![class](class.png "Class - Objects, Attributes and Functionalities")
+![class](CLASS.png "Class - Objects, Attributes and Functionalities")
 
 
 
