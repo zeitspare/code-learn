@@ -23,7 +23,7 @@ Inheritance is the capability of one class to derive or inherit the properties f
 
 |Single-Inheritance|Multilevel-Inheritance|Hierachical-Intheritance|Multile-Inheritance|
 |-----------|:-----------:|-----------:|-----------:|
-enables a derived class to inherit characteristics from a single-parent class||||
+enables a derived class to inherit characteristics from a single-parent class.|enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class.|enables more than one derived class to inherit properties from a parent class.| enables one derived class to inherit properties from more than one base class.|
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
