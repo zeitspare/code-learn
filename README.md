@@ -10,6 +10,9 @@ codes, Frameworks, basic definition, Cheets sheats, short Tricks.
 ### Object
 The object is an entity that has a functionality and property associated with it.
 
+### Methods
+A method in python is somewhat similar to a function, except it is associated with object/classes
+
 ### self
 The word 'self' is used to represent the instance of a class. By using the "self" keyword we access the attributes and methods of the class in python.
 
