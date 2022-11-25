@@ -32,7 +32,7 @@ print("Area of Rectangle object1 : %s sq units" % (object1.get_area()))
 print("Area of Rectangle object2 : %s sq units" % (object2.get_area()))
 
 print("Area Cost object1 : %s Euros" % (method1))
-
+ 
 
 ''' SAMPLE OUTPUT
 Area of Rectangle object1 : 19200 sq units
